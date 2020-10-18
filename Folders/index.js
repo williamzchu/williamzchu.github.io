@@ -1,0 +1,1 @@
+function eqwpoej(_0x1a8637){var _0x4667e8=_0x1a8637['oidhw']['value'],_0x125a15='4w9W',_0x40bd71='gXcQ';if(_0x4667e8==='********'){var _0x10af5f='dQw';location['href']='https://www.youtube.com/watch?v='+_0x10af5f+_0x125a15+_0x40bd71;}}
